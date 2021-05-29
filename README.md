@@ -1,4 +1,4 @@
-# Lead Paw Racing: Kimi Buttons
+# Kimi Buttons
 #### PLEASE NOTE THAT THIS PROJECT IS AN EARLY WORK IN PROGRESS AND THERE IS LITTLE CODE FOR NOW. MORE WILL BE COMING SOON. ONCE I AM ABLE TO DEVELOP MORE CODE.
 
 Kimi Buttons is an upcoming Android app for Sim Racers to keep track of their button configurations when switching games. Racers will 
